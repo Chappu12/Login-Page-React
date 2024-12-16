@@ -9,9 +9,17 @@ const form = () => {
                 </div>
                 <div>
                     <form action="">
-                        <input type="email" placeholder='Email'/>
-                        <input type="password" placeholder='Password'/>
+                        <input type="email" placeholder='Email' />
+                        <input type="password" placeholder='Password' />
                     </form>
+                </div>
+                <div>
+                    <a href="">Forgot Password ?</a>
+                </div>
+                <div>
+                    <p>or</p>
+                    <button>Login with Google</button>
+                    <button>Login</button>
                 </div>
             </div>
         </>
