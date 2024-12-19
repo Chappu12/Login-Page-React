@@ -4,8 +4,8 @@ import Form from './Component/Form/From'
 const App = () => {
   return (
     <>
-      <div className='main'>
-        <div className='first'>
+      <div className='flex flex-row'>
+        <div className='flex h-screen w- bg-slate-800'>
           <h1>React App</h1>
         </div>
         <div className='second'>
