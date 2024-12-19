@@ -5,10 +5,10 @@ const App = () => {
   return (
     <>
       <div className='flex flex-row'>
-        <div className='flex h-screen w- bg-slate-800'>
+        <div className='flex h-screen w-96 bg-slate-800'>
           <h1>React App</h1>
         </div>
-        <div className='second'>
+        <div className='flex flex-col place-content-center '>
           <Form />
         </div>
       </div>

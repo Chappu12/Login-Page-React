@@ -3,7 +3,7 @@ import React from 'react'
 const form = () => {
     return (
         <>
-            <div className='main'>
+            <div className='bg-red-600'>
                 <div>
                     <h1>Welcome to my page</h1>
                 </div>
